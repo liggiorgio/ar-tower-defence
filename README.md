@@ -9,7 +9,7 @@ Software adopted:
 - GIMP 2.10 (sprite/texture editing)
 - Audacity 2.3.2 (audio clip editing)
 
-![Screenshot](https://github.com/liggiorgio/ar-tower-defence/blob/master/Screenshots/Screenshot.jpg =640x320)
+![Screenshot](https://raw.githubusercontent.com/liggiorgio/ar-tower-defence/master/Screenshots/Screenshot.jpg =640x320)
 
 ## Gameplay overview
 Players start by building a *Command Post*, which must defend from waves of incoming enemies, and then deploy turrets that attack enemies at sight. There's a 30-second intermission before each next wave, during which players can deploy more turrets and repair/upgrade existing ones, using currency earned while playing.
