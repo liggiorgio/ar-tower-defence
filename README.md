@@ -9,6 +9,8 @@ Software adopted:
 - GIMP 2.10 (sprite/texture editing)
 - Audacity 2.3.2 (audio clip editing)
 
+[Download](https://github.com/liggiorgio/ar-tower-defence/releases/download/v1.0.1/ARTD.apk) the game for free (requires Android 7.0+ with AR Core support).
+
 ![Screenshot](https://raw.githubusercontent.com/liggiorgio/ar-tower-defence/master/Screenshots/Screenshot.jpg)
 
 ## Gameplay overview
