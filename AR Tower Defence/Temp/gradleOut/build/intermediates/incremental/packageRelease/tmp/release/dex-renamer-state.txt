@@ -1,0 +1,4 @@
+#Mon May 04 09:05:30 CEST 2020
+base.0=/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

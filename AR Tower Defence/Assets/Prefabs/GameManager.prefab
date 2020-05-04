@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8908842372568789648
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8908842372568789655}
+  - component: {fileID: 8908842372568789654}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8908842372568789655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8908842372568789648}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8908842372568789654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8908842372568789648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 297b547fd8daf1934be350e08ad47903, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CommandPost: {fileID: 4928162600986913339, guid: 3c9e309bd5d450ade9570759f0224072,
+    type: 3}
+  GatlingTurret: {fileID: 4888801070488906061, guid: f33406cb968d5257eb07a0664a15d639,
+    type: 3}
+  GaussTurret: {fileID: 3943792195906292283, guid: 501da510b11f72a0f8415cbed0dfd5f2,
+    type: 3}
+  LaserTurret: {fileID: 3030582069617678064, guid: cbb82db6337f60b11a21931c3ec8a568,
+    type: 3}
+  EnemyMinions:
+  - {fileID: 780518355699102225, guid: 0d7eee336ae20ee1f80d209ee96d305b, type: 3}
+  - {fileID: 1596712675957190341, guid: d64f8bff72e91a4f797878a109e2c2cd, type: 3}
+  - {fileID: 4402052742487632291, guid: 778d83e2aad21a501862493d3a97fc4c, type: 3}
+  EnemyBosses:
+  - {fileID: 1814183456977090331, guid: ffff9bba697b6851abf0947f3ae20734, type: 3}
+  - {fileID: 7023380793746462951, guid: 85b56ef7c7c4b1529bb75d3936aced38, type: 3}
+  Ground: {fileID: 8270434983485274082, guid: 331abd9488116c155a923e55956f1c20, type: 3}
+  scoreText: {fileID: 1470811773363828543, guid: 29e687e2c73c1ea77ba56f00ed9c4300,
+    type: 3}
+  prefs: {fileID: 0}
+  prevPlayerExp: 0
+  prevPostExp: 0
+  prevGatlingExp: 0
+  prevGaussExp: 0
+  prevLaserExp: 0

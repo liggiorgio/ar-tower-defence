@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/raw_keep.xml.flat",
+        "source": "/home/liggiorgio/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/b0e6064e57d8b8009537c8d213a49dea/res/raw/keep.xml"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/layout___arcore_education.xml.flat",
+        "source": "/home/liggiorgio/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/b0e6064e57d8b8009537c8d213a49dea/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "/home/liggiorgio/ar-tower-defence/AR Tower Defence/Temp/gradleOut/src/main/res/mipmap-ldpi/app_icon_round.png"
+    }
+]
