@@ -1,5 +1,5 @@
 # AR Tower Defence
-**AR Tower Defence** is an augmented-reality mobile game made with Unity to deliver a sample experience where AR is a core mechanic, not an optional feature.
+**AR Tower Defence** is an augmented-reality mobile game made with Unity that delivers a sample experience where AR is a core mechanic, not an optional feature.
 
 I developed this app as the final project of the Augmented Reality class of the University of Milan.
 
