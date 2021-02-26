@@ -1,5 +1,5 @@
 # AR Tower Defence
-**AR Tower Defence** is an augmented-reality mobile game made with Unity to deliver a sample experience where AR is a core mechanic, not an optional feature.
+**AR Tower Defence** is an augmented-reality mobile game made with Unity that delivers a sample experience where AR is a core mechanic, not an optional feature.
 
 I developed this app as the final project of the Augmented Reality class of the University of Milan.
 
@@ -10,6 +10,8 @@ Software adopted:
 - Audacity 2.3.2 (audio clip editing)
 
 [Download](https://github.com/liggiorgio/ar-tower-defence/releases/download/v1.0.1/ARTD.apk) the game for free (requires Android 7.0+ with AR Core support).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYuTAqtbqIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Screenshot](https://raw.githubusercontent.com/liggiorgio/ar-tower-defence/master/Screenshots/Screenshot.jpg)
 
