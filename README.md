@@ -13,6 +13,8 @@ Software adopted:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYuTAqtbqIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![Youtube trailer](https://img.youtube.com/vi/IYuTAqtbqIk/0.jpg)](https://www.youtube.com/watch?v=IYuTAqtbqIk)
+
 ![Screenshot](https://raw.githubusercontent.com/liggiorgio/ar-tower-defence/master/Screenshots/Screenshot.jpg)
 
 ## Gameplay overview
