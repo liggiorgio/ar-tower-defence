@@ -11,7 +11,11 @@ Software adopted:
 
 [Download](https://github.com/liggiorgio/ar-tower-defence/releases/download/v1.0.1/ARTD.apk) the game for free (requires Android 7.0+ with AR Core support).
 
+Video (click to open in YouTube):
+
 [![Youtube trailer](https://img.youtube.com/vi/IYuTAqtbqIk/0.jpg)](https://youtu.be/IYuTAqtbqIk)
+
+Screenshots:
 
 ![Screenshot](https://raw.githubusercontent.com/liggiorgio/ar-tower-defence/master/Screenshots/Screenshot.jpg)
 
